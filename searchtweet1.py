@@ -16,7 +16,7 @@ class MyStreamer (TwythonStreamer):
 
             if (i+1)%3 == 0:
 
-                print "Ian G. Harris is popular!"
+                print "Who is Abhishek.centos"
 
             i=i+1
 
